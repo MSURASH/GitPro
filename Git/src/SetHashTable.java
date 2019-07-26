@@ -29,7 +29,7 @@ public class SetHashTable {
 			//team.toString();
 		}
 
-
+		System.out.println("Done");
 	}
 
 }

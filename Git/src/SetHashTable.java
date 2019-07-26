@@ -30,6 +30,8 @@ public class SetHashTable {
 		}
 
 		System.out.println("Done");
+		System.out.println("--------------------------------");
+
 	}
 
 }
